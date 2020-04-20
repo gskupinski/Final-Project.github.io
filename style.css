@@ -22,10 +22,8 @@ h1 {
   width:375px;
   padding: 24px;
   color: yellowgreen;
-  border: thick double ;
   font-family: 'Montserrat Alternates', sans-serif;
   background: whitesmoke;
-  height: fit-content;
   text-align: center;
   
 }
@@ -34,4 +32,11 @@ body {
     font-family: 'Abel', sans-serif;
     font-size: 18px;
     background-color: gainsboro;
+}
+
+.wrapper {
+  width:95%;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 1rem;
 }
