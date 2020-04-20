@@ -1,11 +1,15 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Megrim&family=Montserrat+Alternates:wght@600&family=Syncopate:wght@700&display=swap');
 
 * {
   box-sizing: border-box;
 }
 html, body {
-  margin: 0; 
+  width: 100%;
+  height: 100%;
+  min-width: 500px;
+  min-height: 500px;
+  margin: 0;
   padding: 0;
 }
 img {
@@ -13,14 +17,12 @@ img {
   height: auto;
 }
 
-}
 h1 {
   color: yellowgreen;
 }
 
 body {
-  body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Abel', sans-serif;
     font-size: 18px;
     background-color: whitesmoke;
 }
