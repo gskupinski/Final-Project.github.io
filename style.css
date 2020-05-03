@@ -78,3 +78,27 @@ nav{
   text-align: right;
   opacity: 1;
 }
+
+@media (min-width: 1080px) {
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  header,
+  footer {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    background: #fff;
+  }
+  main {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .gallery {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.aside-menu {
+  display: none;
+}
