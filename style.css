@@ -30,6 +30,7 @@ header {
   font-family: 'Work Sans', sans-serif;
   height: fit-content;
   background: whitesmoke;
+  background: transparent;
   
 
 }
@@ -67,7 +68,7 @@ body {
   background-color: white;
 }
 
-.nav{
+nav{
   position: absolute;
   right: 50px;
   top: 40px;
