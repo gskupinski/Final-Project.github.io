@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Megrim&family=Montserrat+Alternates:wght@600&family=Syncopate:wght@700&display=swap');
 
 * {
+  box-sizing: inherit;
+}
+
+* {
   box-sizing: border-box;
 }
 html, body {
@@ -17,7 +21,25 @@ img {
   width: 100%;
   height: auto;
 }
+header {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding: 0;
+  font-family:"Omnium Wide";
+  height: fit-content;
+  background: #ddb887;
+  
 
+}
+footer {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding: 0;
+  font-family:"Omnium Wide";
+  height: fit-content;
+  background: #ddb887;
+  
+}
 h1,h2 {
   margin: 0 auto;
   padding: 16px;
