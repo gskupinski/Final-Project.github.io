@@ -1,5 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=Megrim&family=Montserrat+Alternates:wght@600&family=Syncopate:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Work+Sans:wght@300&display=swap');
+
 
 * {
   box-sizing: inherit;
@@ -25,7 +27,7 @@ header {
   margin-top: 24px;
   margin-bottom: 24px;
   padding: 0;
-  font-family:'Montserrat Alternates', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   height: fit-content;
   background: whitesmoke;
   
@@ -52,9 +54,9 @@ h1,h2 {
 }
 
 body {
-    font-family: 'Abel', sans-serif;
-    font-size: 18px;
-    background-color: gainsboro;
+  font-family: 'PT Serif', serif;
+  font-size: 16px;
+  background-color: gainsboro;
 }
 
 .wrapper {
