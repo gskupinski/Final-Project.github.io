@@ -66,3 +66,15 @@ body {
   padding: 1rem;
   background-color: white;
 }
+
+nav{
+  position: absolute;
+  right: 50px;
+  top: 40px;
+  width: 580px;
+  height: 35px;
+  display: inline-block;
+  text-align: right;
+  z-index: 950;
+  opacity: 1;
+}
