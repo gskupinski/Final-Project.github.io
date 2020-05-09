@@ -57,9 +57,11 @@ h1,h2 {
 body {
   font-family: 'PT Serif', serif;
   font-size: 16px;
-  background-color: gainsboro;
+  background: url(https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf-1024-80.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
 }
-
 .wrapper {
   width:95%;
   max-width: 1080px;
