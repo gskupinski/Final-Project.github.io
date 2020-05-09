@@ -56,9 +56,12 @@ h1,h2 {
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
+
 }
 
 body.index-page {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
   background-image: url(images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
@@ -69,7 +72,7 @@ body.index-page {
   max-width: 1080px;
   margin: 0 auto;
   padding: 1rem;
-  background-color: white;
+  
 }
 
 nav{
