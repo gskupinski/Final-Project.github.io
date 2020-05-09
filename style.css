@@ -60,13 +60,18 @@ body {
 
 }
 
-.index-page {
+body.index-page {
   background-image: url(images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
 }
-
+body.about-page {
+  background-image: url(images/DSC_0218\ copy.JPG);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 .wrapper {
   width:95%;
   max-width: 1080px;
