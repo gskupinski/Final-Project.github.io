@@ -23,6 +23,7 @@ img {
   width: 100%;
   height: auto;
 }
+
 header {
   margin-top: 24px;
   margin-bottom: 24px;
@@ -53,15 +54,19 @@ h1,h2 {
   
 }
 
-
-body.index-page {
+body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
+
+}
+
+.index-page {
   background-image: url(images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
 }
+
 .wrapper {
   width:95%;
   max-width: 1080px;
