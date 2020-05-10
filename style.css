@@ -20,9 +20,6 @@ header {
   padding: 0;
   font-family: 'Work Sans', sans-serif;
   height: fit-content;
-  background-image: image(italy1.jpg)
-  
-
   
 
 }
@@ -52,13 +49,13 @@ body {
 
 }
 
-body.index-page {
+.index-page {
   background-image: url(images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
 }
-body.about-page {
+.about-page {
   background-image: url(images/DSC_0218\ copy.JPG);
   background-repeat:no-repeat;
   background-size: cover;
