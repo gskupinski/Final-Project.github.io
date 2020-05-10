@@ -9,6 +9,7 @@ html, body{
   }
 * {box-sizing: border-box;
   }
+
 img {
   width: 100%;
   height: auto;
@@ -57,13 +58,13 @@ body {
   margin: 0 auto;
   
 }
-
-about img{
+.about-info{
+img{
   width: 400px;
   float: left;
   margin: 16px;
 }
-
+}
 @media (min-width: 1080px) {
   .wrapper {
     display: grid;
