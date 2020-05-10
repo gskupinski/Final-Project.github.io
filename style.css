@@ -70,19 +70,6 @@ body.about-page {
   
 }
 
-nav{
-  font-family: 'Work Sans', sans-serif;
-  font-size: 16px;
-  position: absolute;
-  right: 50px;
-  top: 40px;
-  width: 580px;
-  height: 35px;
-  display: inline-block;
-  text-align: right;
-  opacity: 1;
-}
-
 @media (min-width: 1080px) {
   .wrapper {
     display: grid;
