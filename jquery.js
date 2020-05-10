@@ -1,3 +1,7 @@
+$('.menu-trigger').on('click', function(){
+  $('.aside-menu').slideToggle();
+});
+
 /*!
  * Lightbox v2.11.1
  * by Lokesh Dhakar
