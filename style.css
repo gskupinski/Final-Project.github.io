@@ -49,13 +49,13 @@ body {
 
 }
 
-.index-page {
+index-page {
   background-image: url(images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
 }
-.about-page {
+about-page {
   background-image: url(images/DSC_0218\ copy.JPG);
   background-repeat:no-repeat;
   background-size: cover;
