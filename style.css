@@ -108,7 +108,9 @@ nav{
     grid-column-start: 1;
     grid-column-end: 4;
   }
-  
+  .gallery {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 
 .aside-menu {
