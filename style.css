@@ -47,7 +47,7 @@ h1,h2 {
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  background-image: url(Images/DSC_0164.JPG);
+  background-image: url(Images/DSC_0164.JPG,);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
@@ -58,7 +58,7 @@ body {
   margin: 0 auto;
   
 }
-.about-info{
+.about-info img{
   width: 400px;
   float: left;
   margin: 16px;
