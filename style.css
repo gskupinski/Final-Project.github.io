@@ -82,13 +82,7 @@ nav{
   text-align: right;
   opacity: 1;
 }
-@media (min-width: 700px) {
-  .flower-gallery {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 16px;
-    margin-bottom: 16px;
-  }
+
 @media (min-width: 1080px) {
   .wrapper {
     display: grid;
