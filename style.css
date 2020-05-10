@@ -58,6 +58,11 @@ body {
   
 }
 
+about img{
+  width: 400px;
+  float: left;
+  margin: 16px;
+}
 
 @media (min-width: 1080px) {
   .wrapper {
