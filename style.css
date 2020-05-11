@@ -47,6 +47,7 @@ h1,h2 {
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
+  text-align: center;
   background-image: url(Images/DSC_0164.JPG,);
   background-repeat:no-repeat;
   background-size: cover;
