@@ -58,10 +58,8 @@ body {
   margin: 0 auto;
   
 }
-.about-info img{
-  width: 400px;
-  float: left;
-  margin: 16px;
+about-imgage {
+  margin: 0 30px 30px 0;
 
 }
 @media (min-width: 1080px) {
