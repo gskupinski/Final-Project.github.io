@@ -1,7 +1,6 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Work+Sans:wght@300&display=swap');
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 
 html, body{
   margin: 0;
@@ -19,7 +18,7 @@ header {
   margin-top: 24px;
   margin-bottom: 24px;
   padding: 0;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Pt Serif', sans-serif;
   height: fit-content;
   
 }
@@ -38,7 +37,7 @@ h1,h2 {
   padding: 16px;
   margin-bottom: 24;
   color: yellowgreen;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'PT Serif', sans-serif;
  
   text-align: center;
   
