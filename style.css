@@ -44,16 +44,18 @@ h1,h2 {
   
 }
 
-body {
-  font-family: 'Work Sans', sans-serif;
-  font-size: 16px;
-  text-align: center;
+html{
   margin: 0 auto;
   background-image: url(Images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
   opacity: 0.5;
+}
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  text-align: center;
   
 }
 .cover-title{
