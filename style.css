@@ -40,7 +40,7 @@ h1,h2,h3 {
   color: yellowgreen;
   font-family: 'PT Serif', sans-serif;
   text-align: center;
-  background: transparent;
+
 }
 
 html{
@@ -62,7 +62,6 @@ body {
   font-size: xx-large;
   text-align: center;
   width: 95%;
-  max-width: 1200px;
   margin: 0 auto;
 }
 
