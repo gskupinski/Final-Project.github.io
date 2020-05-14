@@ -33,23 +33,25 @@ footer {
   
   
 }
-h1,h2 {
+h1,h2,h3 {
   margin: 0 auto;
   padding: 16px;
   margin-bottom: 24;
   color: yellowgreen;
   font-family: 'PT Serif', sans-serif;
- 
   text-align: center;
+  background: transparent;
   
 }
 
 html{
-  margin: 0 auto;
+  margin-top: 24px;
+  margin-bottom: 24px;
   background-image: url(Images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
+  opacity: 0.5%;
 }
 body {
   font-family: 'Work Sans', sans-serif;
