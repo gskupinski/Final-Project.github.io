@@ -93,21 +93,6 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-  .social-footer-icons {
-    li:last-of-type {
-      margin-right: 0;
-    }
-    .fa {
-      font-size: 1.3rem;
-      color: white;
-    hover {
-        color: darkgrey, 25%;
-        transition: color 0.3s ease-in;
-      }
-    }
-  }
-}
-
 
 
 
