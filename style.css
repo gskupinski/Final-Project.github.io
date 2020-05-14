@@ -56,7 +56,13 @@ body {
   background-position: center;
   
 }
-
+.cover-title{
+  font-size: xx-large;
+  text-align: center;
+  width: 95%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 .about-image {
   width: 300px;
