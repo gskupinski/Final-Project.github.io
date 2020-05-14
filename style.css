@@ -42,10 +42,14 @@ h1,h2,h3 {
   text-align: center;
 
 }
+.wrapper {
+  width: 95%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 html.floral-html{
-  margin-top: 24px;
-  margin-bottom: 24px;
+
   background-image: url(Images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
@@ -68,6 +72,18 @@ body {
   width: 300px;
   float: left;
 }
+.menu-trigger {
+  background: #00698c;
+  color: white;
+  border: 1px solid #00698c;
+
+  transition: color .5s ease-in, background 0.5s ease-in;
+}
+.menu-trigger:active {
+  background: white;
+  color: #00698c;
+}
+
 @media (min-width: 1080px) {
   .wrapper {
     display: grid;
@@ -86,6 +102,7 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 1em;
+    
   } 
 }
 
