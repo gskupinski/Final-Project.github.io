@@ -55,6 +55,30 @@ html.home-html{
   background-size: cover;
   background-position: center;
 }
+html.about-image{
+  
+  background-image: url(Images/Forest.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+html.art-html {
+
+  background-image: url(Images/ItalySky.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+html.contact-html {
+  
+  background-image: url(Images/iceland.JPG);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
