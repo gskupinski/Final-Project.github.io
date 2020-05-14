@@ -73,15 +73,12 @@ body {
   float: left;
 }
 .menu-trigger {
-  background: #00698c;
+  background: whitesmoke;
   color: white;
-  border: 1px solid #00698c;
-  transition: color .5s ease-in;
+  border: 1px solid #a4e2be;
+  
 }
-.menu-trigger:active {
-  background: white;
-  color: #00698c;
-}
+
 
 @media (min-width: 1080px) {
   .wrapper {
