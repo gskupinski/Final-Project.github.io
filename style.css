@@ -95,10 +95,7 @@ main.aboutinfo {
   width: 95%;
   max-width: 800px;
   margin: 0 auto;
-  margin-bottom: 16px;
-  background: rgba(255, 255, 255, .4);
-  min-height: 150px;
-  padding: 16px;
+ 
  
 }
 
@@ -108,6 +105,7 @@ html.floral-html{
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
+  background: rgba(255, 255, 255, 0.3);
 }
 
 html.home-html{
