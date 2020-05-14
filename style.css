@@ -14,13 +14,12 @@ img {
   height: auto;
   }
 html{
-  
   margin: 0 auto;
   background-image: url(Images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
-  background: transparent 40%;
+  background: transparent;
   }
 header {
   margin-top: 24px;
