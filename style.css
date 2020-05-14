@@ -9,11 +9,6 @@ html, body{
 * {box-sizing: border-box;
   }
 
-img {
-  width: 95%;
-  height: auto;
-  }
-
 
 header {
   margin-top: 24px;
@@ -50,6 +45,7 @@ html{
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
 body {
   font-family: 'Work Sans', sans-serif;
