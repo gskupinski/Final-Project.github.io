@@ -55,6 +55,14 @@ html.floral-html{
   background-size: cover;
   background-position: center;
 }
+
+html.home-html{
+
+  background-image: url(Images/);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
