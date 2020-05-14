@@ -50,7 +50,6 @@ html{
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
-  opacity: 0.5%;
 }
 body {
   font-family: 'Work Sans', sans-serif;
@@ -78,7 +77,6 @@ body {
   footer {
     grid-column-start: 1;
     grid-column-end: 5;
-    background: #fff;
   }
   main {
     grid-column-start: 1;
