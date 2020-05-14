@@ -56,6 +56,19 @@ p{
   text-decoration: transparent;
 }
 
+main.aboutinfo {
+  font-family: 'Abel', sans-serif;
+  text-align: center;
+  text-decoration-color: transparent;
+  width: 95%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 16px;
+  background: rgba(255, 255, 255, .4);
+  min-height: 150px;
+  padding: 16px;
+}
+
 html.floral-html{
 
   background-image: url(Images/DSC_0164.JPG);
@@ -108,7 +121,7 @@ body {
   margin: 0 auto;
 }
 
-.about-image {
+main.about-image {
   width: 300px;
   float: left;
 }
