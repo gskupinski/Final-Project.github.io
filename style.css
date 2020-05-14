@@ -19,7 +19,7 @@ html{
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
-  background: transparent;
+  opacity: 0.5;
   }
 header {
   margin-top: 24px;
