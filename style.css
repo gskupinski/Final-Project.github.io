@@ -47,9 +47,6 @@ body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   text-align: center;
-  
-}
-.wrapper {
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
@@ -57,6 +54,10 @@ body {
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
+  
+}
+.wrapper {
+  
   
 }
 .about-image {
