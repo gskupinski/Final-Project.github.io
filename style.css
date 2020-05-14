@@ -169,6 +169,10 @@ body {
     grid-gap: 1em;
     
   } 
+  .nav {
+    grid-column-start: 4;
+    grid-column-end: 5;
+  }
 }
 
 .aside-menu {
