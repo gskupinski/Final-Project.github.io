@@ -38,6 +38,28 @@ h1 {
   font-family: 'PT Serif', sans-serif;
   text-align: center;
 }
+h1 {
+  overflow: hidden;
+  text-align: center;
+ }
+ h1:before,
+ h1:after {
+  background-color: #333;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+ }
+ h1:before {
+  right: 0.5em;
+  margin-left: -50%;
+ }
+ h1:after {
+  left: 0.5em;
+  margin-right: -50%;
+ }
 
 h2,h3 {
 
@@ -126,13 +148,6 @@ body {
   text-align: center;
   width: 95%;
   margin: 0 auto;
-  display: inline-block;
-  padding: .5em;
-  border-top: 1px solid white;
-  border-bottom: 1px solid white;
-  text-transform: uppercase;
-  font-family: Verdana;
-  
 }
 
 main.about-image {
