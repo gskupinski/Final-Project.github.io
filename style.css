@@ -37,7 +37,16 @@ h1,h2,h3 {
   color: yellowgreen;
   font-family: 'PT Serif', sans-serif;
   text-align: center;
+}
 
+p{
+  
+  margin: 0 auto;
+  padding: 16px;
+  margin-bottom: 24;
+  color: yellowgreen;
+  font-family: 'PT Serif', sans-serif;
+  text-align: center;
 }
 .wrapper {
   width: 95%;
