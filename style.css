@@ -76,8 +76,7 @@ body {
   background: #00698c;
   color: white;
   border: 1px solid #00698c;
-
-  transition: color .5s ease-in, background 0.5s ease-in;
+  transition: color .5s ease-in;
 }
 .menu-trigger:active {
   background: white;
