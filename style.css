@@ -34,7 +34,7 @@ h1,h2,h3 {
   margin: 0 auto;
   padding: 16px;
   margin-bottom: 24;
-  color: yellowgreen;
+  color: slategray;
   font-family: 'PT Serif', sans-serif;
   text-align: center;
 }
@@ -44,7 +44,7 @@ p{
   margin: 0 auto;
   padding: 16px;
   margin-bottom: 24;
-  color: yellowgreen;
+  color: black;
   font-family: 'PT Serif', sans-serif;
   text-align: center;
 }
