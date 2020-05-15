@@ -238,9 +238,9 @@ button:hover {
 }
 
 .menu-trigger {
-  background: lightgray;
-  color: slategray;
-  border: 1px solid whitesmoke;
+  background: whitesmoke;
+  color: slategrey;
+  border: 3px solid grey;
   
 }
 .fa {
