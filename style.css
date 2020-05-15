@@ -92,18 +92,23 @@ p{
   text-decoration: transparent;
 }
 
-main.aboutinfo {
-  font-family: 'Abel', sans-serif;
-  text-align: center;
-  text-decoration-color: transparent;
-  width: 95%;
-  max-width: 800px;
-  margin: 0 auto;
- 
- 
+.about-image {
+  float: left;
+  max-width: 300px;
+}
+.about-info {
+  background: rgba(0,0,0,.9);
+  color: white;
+}
+.about-info p {
+  color: white;
+  text-align: left;
+}
+.about-image {
+  margin-right: 16px;
 }
 
-html.floral-html{
+.gallery main{
 
   background-image: url(Images/DSC_0164.JPG);
   background-repeat:no-repeat;
@@ -114,32 +119,24 @@ html.floral-html{
 html.home-html{
 
   background-image: url(Images/italy-ally.JPG);
-  background-repeat:no-repeat;
-  background-size: cover;
-  background-position: center;
+  
 }
 html.about-html{
   
   background-image: url(Images/Forest.jpg);
-  background-repeat:no-repeat;
-  background-size: cover;
-  background-position: center;
+  
 }
 
 html.art-html {
 
   background-image: url(Images/ItalySky.jpg);
-  background-repeat:no-repeat;
-  background-size: cover;
-  background-position: center;
+ 
 }
 
 html.contact-html {
   
   background-image: url(Images/iceland.JPG);
-  background-repeat:no-repeat;
-  background-size: cover;
-  background-position: center;
+
 }
 
 body {
@@ -160,10 +157,7 @@ body {
   width: 95%;
   margin: 0 auto;
 }
-main.about-image {
-  width: 200px;
-  float: left;
-}
+
 .menu-trigger {
   background:grey;
   color: rgb(255, 255, 255);
@@ -241,6 +235,10 @@ nav {
   }
   .nav {
     grid-column-start: 4;
+    grid-column-end: 5;
+  }
+  .gallery main {
+    grid-column-start: 1;
     grid-column-end: 5;
   }
 }
