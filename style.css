@@ -196,7 +196,10 @@ main.about-image {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
   }
-  header,
+  header{
+    grid-column-start: 1;
+    grid-column-end: 5;
+  }
   footer {
     grid-column-start: 1;
     grid-column-end: 5;
