@@ -149,9 +149,14 @@ body {
   width: 95%;
   margin: 0 auto;
 }
-
+.cover-title2 {
+  font-size: x-small;
+  text-align: center;
+  width: 95%;
+  margin: 0 auto;
+}
 main.about-image {
-  width: 300px;
+  width: 200px;
   float: left;
 }
 .menu-trigger {
