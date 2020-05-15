@@ -30,20 +30,20 @@ footer {
   height: fit-content;
 }
 
-h1 {
+h1,h4 {
   margin: 0 auto;
   padding: 16px;
   margin-bottom: 24;
-  color: slategray;
+  color: lightslategray;
   font-family: 'PT Serif', sans-serif;
   text-align: center;
 }
-h1 {
+h1,h4 {
   overflow: hidden;
   text-align: center;
  }
- h1:before,
- h1:after {
+ h1,h4:before,
+ h1,h4:after {
   background-color: #333;
   content: "";
   display: inline-block;
@@ -52,11 +52,11 @@ h1 {
   vertical-align: middle;
   width: 50%;
  }
- h1:before {
+ h1,h4:before {
   right: 0.5em;
   margin-left: -50%;
  }
- h1:after {
+ h1,h4:after {
   left: 0.5em;
   margin-right: -50%;
  }
