@@ -232,8 +232,8 @@ input{
 }
 
 .menu-trigger {
-  background:grey;
-  color: rgb(255, 255, 255);
+  background: lightgray;
+  color: slategray;
   border: 1px solid whitesmoke;
   
 }
@@ -275,7 +275,7 @@ nav {
 .aside-menu a {
   font-family: 'Poiret One', cursive;
   text-decoration: none;
-  color: whitesmoke;
+  color: lightsteelblue;
 }
 
 @media (min-width: 1080px) {
