@@ -35,7 +35,7 @@ h1,h4 {
   padding: 16px;
   margin-top: 50;
   margin-bottom: 24;
-  color: lightslategray;
+  color: whitesmoke;
   font-family: 'PT Serif', sans-serif;
   text-align: center;
 }
@@ -45,7 +45,7 @@ h1 {
  }
  h1:before,
  h1:after {
-  background-color: #333;
+  background-color: white;
   content: "";
   display: inline-block;
   height: 1px;
