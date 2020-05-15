@@ -139,17 +139,17 @@ p{
   margin-right: 16px;
 }
 
-html.floral.html{
+html.home-html{
 
-  background-image: url(Images/DSC_0164.JPG);
+  background-image: url(Images/iceland.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-html.home-html{
+html.floral.html{
 
-  background-image: url(Images/iceland.JPG);
+  background-image: url(Images/DSC_0164.JPG);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
