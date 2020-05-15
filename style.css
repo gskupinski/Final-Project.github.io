@@ -197,6 +197,7 @@ body {
 .form-contact {
   background: rgba(0,0,0,.9);
   padding: 32px 64px 32px 64px;
+  margin: 60px;
 }
 form {
   font-family: 'Poiret One', cursive;
