@@ -45,7 +45,7 @@ h1 {
   font-family: 'Bungee Shade', cursive;
   text-align: center;
 }
-.cover-title,h1 {
+h1 {
   overflow: hidden;
   text-align: center;
  }
@@ -66,23 +66,7 @@ h1 {
   left: 0.5em;
   margin-right: -50%;
  }
-.cover-title:before, .cover-title:after {
-  background-color: white;
-  content: "";
-  display: inline-block;
-  height: 1px;
-  position: relative;
-  vertical-align: middle;
-  width: 50%;
-}
-.cover-title:before{
-  right: 0.5em;
-  margin-left: -50%;
-}
-.cover-title:after{
-  left: 0.5em;
-  margin-right: -50%;
-}
+
 
 .cover-title2 a {
   color: whitesmoke;
