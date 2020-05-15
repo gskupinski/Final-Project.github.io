@@ -84,7 +84,7 @@ h2,h3 {
     margin: 0 auto;
     padding: 16px;
     margin-bottom: 24;
-    color: lightslategray;
+    color: whitesmoke;
     font-family: 'PT Serif', sans-serif;
     text-align: center;
 }
@@ -112,6 +112,7 @@ p{
 .about-info {
   background: rgba(0,0,0,.9);
   color: white;
+  background-position: inherit;
 }
 .about-info p {
   color: white;
