@@ -132,6 +132,8 @@ p{
 .about-info p {
   color: white;
   text-align: left;
+  margin: 30px ;
+
 }
 .about-image {
   margin-right: 16px;
@@ -179,7 +181,6 @@ html.contact-html {
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  text-align: center;
   
 }
 .cover-title{
