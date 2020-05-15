@@ -127,7 +127,7 @@ p{
   max-width: 300px;
 }
 .about-info {
-  background: rgba(0,0,0,.9);
+  background: rgba(0,0,0,.4);
   color: white;
   background-position: fit-content;
 }
@@ -242,8 +242,8 @@ button:hover {
 }
 
 .menu-trigger {
-  background: whitesmoke;
-  color: slategrey;
+  background: rgba(0,0,0,.4);
+    color: whitesmoke;
   border: 3px solid grey;
   float: right;
   
