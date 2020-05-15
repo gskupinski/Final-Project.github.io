@@ -31,8 +31,9 @@ footer {
 }
 
 h1,h4 {
-  margin: 0 auto;
+
   padding: 16px;
+  margin-top: 50;
   margin-bottom: 24;
   color: lightslategray;
   font-family: 'PT Serif', sans-serif;
