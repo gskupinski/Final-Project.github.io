@@ -276,7 +276,7 @@ button:hover {
 }
 
 nav {
-  text-align: right;
+  float: right;
 }
 .aside-menu {
   list-style: none;
