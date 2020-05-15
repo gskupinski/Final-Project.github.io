@@ -61,7 +61,12 @@ h1 {
   margin-right: -50%;
  }
 
-h4 {
+.cover-title a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
   border-bottom: thick double white;
   border-top: thick double white;
 }
