@@ -288,7 +288,9 @@ button:hover {
   border-bottom: thick double white;
   border-top: thick double white;
 }
-
+.index-page .cover-title2 li {
+  display: inline-block;
+}
 @media (min-width: 1080px) {
   .wrapper {
     display: flex;
