@@ -279,6 +279,7 @@ button:hover {
 
 .aside-menu {
   list-style: none;
+  font-size: 20px;
 }
 .aside-menu a {
   font-family: 'Poiret One', cursive;
