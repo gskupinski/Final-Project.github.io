@@ -76,8 +76,6 @@ h1 {
   display: inline;
   padding:16px;
   font-size: 20px;
-  border-bottom: thick double white;
-  border-top: thick double white;
   
 }
 .cover-title2{
@@ -285,6 +283,10 @@ button:hover {
   font-family: 'Poiret One', cursive;
   text-decoration: none;
   color: white;
+}
+.index-page .cover-title2 {
+  border-bottom: thick double white;
+  border-top: thick double white;
 }
 
 @media (min-width: 1080px) {
