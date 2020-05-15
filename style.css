@@ -195,23 +195,46 @@ body {
   margin: 0 auto;
 }
 .form-contact {
-  background: rgba(0,0,0,.9);;
+  background: rgba(0,0,0,.9);
   padding: 32px 64px 32px 64px;
 }
-
 form {
   font-family: 'Poiret One', cursive;
-  color: whitesmoke;
+  color:whitesmoke;
   font-size: 24px;
 }
-label, input{
+label, input, textarea, button {
   display: block;
 }
-input{
+input, textarea {
   padding: 5px;
   border-radius: 10px;
   border: none;
   width: 65%;
+}
+.form-inline {
+  display: inline;
+}
+.inline-input {
+  width: auto;
+
+}
+label, button {
+  margin-top: 16px;
+}
+button {
+  background: lightgray;
+  border: none;
+  padding: 12px 32px 12px 32px;
+  font-size: inherit;
+  border-radius: 10px;
+}
+
+button:hover {
+  background: grey;
+  color: slategray;
+  border-radius: 0;
+  cursor: pointer;
 }
 
 .menu-trigger {
