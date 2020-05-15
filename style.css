@@ -244,6 +244,7 @@ button:hover {
   background: whitesmoke;
   color: slategrey;
   border: 3px solid grey;
+  float: right;
   
 }
 .fa {
@@ -275,9 +276,6 @@ button:hover {
   color: white;
 }
 
-nav {
-  float: right;
-}
 .aside-menu {
   list-style: none;
 }
