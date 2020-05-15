@@ -223,7 +223,7 @@ nav {
 }
 .aside-menu a {
   text-decoration: none;
-  color: #44464a;
+  color: whitesmoke;
 }
 
 @media (min-width: 1080px) {
