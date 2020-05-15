@@ -282,7 +282,7 @@ nav {
 .aside-menu a {
   font-family: 'Poiret One', cursive;
   text-decoration: none;
-  color: slategray;
+  color: lightgray;
 }
 
 @media (min-width: 1080px) {
