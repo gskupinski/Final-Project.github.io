@@ -234,7 +234,7 @@ button {
 
 button:hover {
   background: grey;
-  color: slategray;
+  color: whitesmoke;
   border-radius: 0;
   cursor: pointer;
 }
