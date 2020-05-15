@@ -91,9 +91,10 @@ h2 {
   margin: 0 auto;
     padding: 16px;
     margin-bottom: 24;
-    color: lightsteelblue;
+    color: whitesmoke;
     font-family: 'Poiret One', cursive;
     text-align: center;
+    font-size: 50px;
 }
 
 h3 {
